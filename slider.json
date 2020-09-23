@@ -1,0 +1,42 @@
+{"slider":[
+	{
+		"image": "image1.jpg",
+		"text": {
+			"h1": "Title 1",
+			"p": "Birinci slaydin metni burada yer alacaq. "
+		},
+		"url": "http://itstep.az"
+	},
+	{
+		"image": "image2.jpg",
+		"text": {
+			"h1": "Title 2",
+			"p": "Ikinci slaydin metni burada yer alacaq. "
+		},
+		"url": "http://facebok.com"
+	},
+	{
+		"image": "image3.jpg",
+		"text": {
+			"h1": "Title 3",
+			"p": "Ucuncu slaydin metni burada yer alacaq. "
+		},
+		"url": "https://youtube.com"
+	},
+	{
+		"image": "image4.jpg",
+		"text": {
+			"h1": "Title 4",
+			"p": "Birinci slaydin metni burada yer alacaq. "
+		},
+		"url": "http://wikipedia.org"
+	},
+	{
+		"image": "image5.jpg",
+		"text": {
+			"h1": "Title 5",
+			"p": "Dorduncu slaydin metni burada yer alacaq. "
+		},
+		"url": "http://president.az"
+	}
+]}
